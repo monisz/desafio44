@@ -1,0 +1,150 @@
+{"level":"error","message":"producto con id 20 no encontrado"}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":"error al buscar por id CastError: Cast to Number failed for value \"{}\" (type Object) at path \"id\" for model \"cart\""}
+{"level":"error","message":"error al buscar por id CastError: Cast to Number failed for value \"{}\" (type Object) at path \"id\" for model \"cart\""}
+{"level":"error","message":"error al buscar por id CastError: Cast to Number failed for value \"{}\" (type Object) at path \"id\" for model \"cart\""}
+{"level":"error","message":"error al buscar por id CastError: Cast to Number failed for value \"{}\" (type Object) at path \"id\" for model \"cart\""}
+{"level":"error","message":"error al buscar por id CastError: Cast to Number failed for value \"{}\" (type Object) at path \"id\" for model \"cart\""}
+{"level":"error","message":"error al buscar por id CastError: Cast to Number failed for value \"{}\" (type Object) at path \"id\" for model \"cart\""}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":"error al buscar por id TypeError: Cannot read properties of undefined (reading 'username')"}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":"error en Save ReferenceError: element is not defined"}
+{"level":"error","message":"error en Save ReferenceError: element is not defined"}
+{"level":"error","message":"error en Save ReferenceError: element is not defined"}
+{"level":"error","message":"error en Save ReferenceError: element is not defined"}
+{"level":"error","message":"error en Save ReferenceError: element is not defined"}
+{"level":"error","message":"error en deleteById ReferenceError: result is not defined"}
+{"level":"error","message":"error en deleteById ReferenceError: result is not defined"}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"NaN\" (type number) at path \"id\" for model \"product\""}
+{"level":"error","message":null}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of null (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"el error al guardar fue: MongoServerError: E11000 duplicate key error collection: ecommercePF.products index: id_1 dup key: { id: 10 }"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"el error al guardar fue: MongoServerError: E11000 duplicate key error collection: ecommercePF.products index: id_1 dup key: { id: 9 }"}
+{"level":"error","message":"error al reemplazar datos TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":null}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":null}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":null}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '3',\n  args: [Object: null prototype] {\n    title: 'MicroscopioAxios',\n    description: 'Axx',\n    code: 'AX600',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 1000,\n    stock: 6,\n    timestamp: '1663629785549'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":"error en Save ReferenceError: newElement is not defined"}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":"error al reemplazar datos CastError: Cast to Number failed for value \"{\n  id: '2',\n  args: [Object: null prototype] {\n    title: 'Microscopio7',\n    description: '7x',\n    code: 'MI700',\n    thumbnail: 'https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png',\n    price: 3000,\n    stock: 6,\n    timestamp: '1664144978503'\n  }\n}\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":"error en deleteById CastError: Cast to Number failed for value \"{ id: '14' }\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error en deleteById CastError: Cast to Number failed for value \"{ id: '14' }\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error en deleteById CastError: Cast to Number failed for value \"{ id: '14' }\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":null}
+{"level":"error","message":"error en deleteById CastError: Cast to Number failed for value \"{ id: '14' }\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":"error en deleteById CastError: Cast to Number failed for value \"{ id: '14' }\" (type Object) at path \"id\" for model \"product\""}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}
+{"level":"error","message":null}

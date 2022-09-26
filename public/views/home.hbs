@@ -1,0 +1,27 @@
+<div class="container p-3 my-4" style="background-color:rgb(165, 217, 250)">
+  <form class="row g-3" action="/logout" method="POST">  
+    <div class="col-sm-4">
+      <h3 style="color:green">Bienvenido <img src="../avatars/{{user.username}}.jpeg" alt="avatar"></h3>
+    </div>
+    <div class="container p-3 my-4 col-sm-4">
+      <h4 style="color:blue">Datos del usuario</h4>
+      <p><b>email: </b>{{user.username}}</p>
+      <p><b>Nombre: </b>{{user.name}}</p>
+      <p><b>Dirección: </b>{{user.address}}</p>
+      <p><b>Edad: </b>{{user.age}}</p>
+      <p><b>Teléfono: </b>{{user.phone}}</p>
+    </div>
+    <div class="col-auto">
+      <button type="submit" class="btn btn-warning" id="logout">Desloguear</button>
+    </div>
+  </form>
+</div>
+
+<div class="container p-3 my-4 bg-light" style="display:flex; justify-content:space-around">
+    <form action="/api/productos" method="GET" id="" >
+        <button type="submit" class="btn btn-primary">Productos</button>
+    </form>
+    <form action="/api/carrito/{{idCart}}/productos" method="GET" id="" >
+        <button type="submit" class="btn btn-primary">Carrito</button>
+    </form>
+</div>
